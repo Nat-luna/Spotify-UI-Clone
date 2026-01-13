@@ -1,7 +1,7 @@
 function Header() {
 
     return (
-        <header classname="header">
+        <header className="header">
             <button>{"<"}</button>
             <button>{">"}</button>
         </header>

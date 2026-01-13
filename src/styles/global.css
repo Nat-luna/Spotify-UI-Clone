@@ -41,7 +41,7 @@ body {
 }
 
 /*Main content*/
-main {
+.main {
     flex: 1;
     background-color: #181818;
     display: flex;
@@ -52,7 +52,7 @@ main {
     height: 60px;
     padding: 10px 20px;
     background-color: #101010;
-    display: felx;
+    display: flex;
     align-items: center;
     gap: 10px;
 }

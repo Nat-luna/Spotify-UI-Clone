@@ -1,7 +1,7 @@
 function Sidebar () {
 
     return (
-        <aside classname="sidebar">
+        <aside className="sidebar">
             <h2>Spotify</h2>
             <ul>
                 <li>Home</li>

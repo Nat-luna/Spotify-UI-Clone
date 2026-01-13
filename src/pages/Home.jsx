@@ -4,11 +4,11 @@ import Header from "../components/Header";
 function Home () {
 
     return (
-        <div classname="app"> 
+        <div className="app"> 
             <Sidebar />
-            <main classname="main">
+            <main className="main">
                 <Header />
-                <section classname="content">
+                <section className="content">
                     <h1>Good afternoon!</h1>
                 </section>
             </main>
